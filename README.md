@@ -1,6 +1,6 @@
 # JavaScript Calculator
 
-Drum Machine is the fourth project for the *Front End Development Libraries* course that is hosted by **FreeCodeCamp**.
+JavaScript Calculator is the fourth project for the *Front End Development Libraries* course that is hosted by **FreeCodeCamp**.
 It utilizes the **React** JavaScript library to build the UI. The user can press the buttons in the calculator to make
 simple calculations. The display above will show both the formula during the calculation and the most recent input.
 
